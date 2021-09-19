@@ -1,0 +1,13 @@
+id,descripcion,id_anfitrion,nombre_anfitrion,anfitrion_desde,superanfitrion,barrio,latitud,longitud,tipo_alojamiento,precio,huespedes,politica_cancelacion
+7270,¡¡Great Loft in Palermo Hollywood!!,18822,Toni,2009-05-26,FALSE,Palermo,-34.58241,-58.43382,Alojamiento entero,1802,2,estricta_con_gracia
+14222,"HAPPY HOUSE - PALERMO, BUENOS AIRES",55825,Manuel,2009-11-19,FALSE,Palermo,-34.58777,-58.41106,Alojamiento entero,2849,3,moderada
+14711,SPECTACULAR ANCIENT HOUSE,57770,Cintia,2009-11-26,FALSE,Monserrat,-34.60913,-58.37372,Alojamiento entero,5047,3,flexible
+107259,Great place to 12 Tango lovers,555693,Vittoria,2011-05-03,FALSE,Balvanera,-34.60485,-58.39448,Alojamiento entero,16716,12,estricta_con_gracia
+238513,EXCLUSIVE LOFT IN PALERMO HOLLYWOOD,55825,Manuel,2009-11-19,FALSE,Palermo,-34.58153,-58.43334,Alojamiento entero,2095,3,estricta_con_gracia
+413349,"Lovely, comfortable up to 14 guests",555693,Vittoria,2011-05-03,FALSE,Balvanera,-34.60489,-58.39608,habitacion_privada;alojamiento_entero,16716,14,estricta_con_gracia
+4416046,"SPOT OF HARMONY - RECOLETA, BA",55825,Manuel,2009-11-19,FALSE,Recoleta,-34.58385,-58.40134,Alojamiento entero,1767,2,estricta_con_gracia
+33769932,"Excelente departamento 2 ambientes ""Palermo Soho""",254565685,Ariel,2019-04-10,FALSE,Palermo,-34.58461,-58.42615,habitacion_privada;habitacion_compartida,2095,3,flexible
+33799159,Excelente studio en pleno Recoleta,254565685,Ariel,2019-04-10,FALSE,Recoleta,-34.58808,-58.39552,Alojamiento entero,1676,3,flexible
+33823233,Sublime studio en pleno centro de Recoleta,254565685,Ariel,2019-04-10,FALSE,Recoleta,-34.58952,-58.39076,Alojamiento entero,2095,3,flexible
+33945098,Hermoso depto en el corazon de Buenos aires,49010524,Nanu,2015-11-14,FALSE,Recoleta,-34.59184,-58.40918,Alojamiento entero,2011,4,estricta_con_gracia
+33956188,Dúpléx en piso alto hasta 7 pax en Almagro -CABA.,4912642,Iris,2013-01-30,FALSE,Almagro,-34.60634,-58.42485,habitacion_privada;alojamiento_entero,2271,7,flexible
